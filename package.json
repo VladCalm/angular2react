@@ -47,7 +47,7 @@
     "watchify": "^3.9.0"
   },
   "dependencies": {
-    "@types/angular": "^1.6.15",
+    "@types/angular": "^1.6.16",
     "@types/react": "^15.0.22",
     "@types/react-dom": "^15.5.0",
     "angular": "^1.6.3",
