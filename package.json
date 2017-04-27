@@ -43,7 +43,7 @@
     "react-addons-test-utils": "^15.4.2",
     "rollupify": "^0.3.9",
     "tslint": "^5.0.0",
-    "typescript": "^2.2.1",
+    "typescript": "^2.3.1",
     "watchify": "^3.9.0"
   },
   "dependencies": {
